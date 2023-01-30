@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Flash Browser</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="go_btn">Go button</string>
+    <string name="settings_btn">Setting Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Search</string>
+    <string name="settings">Settings</string>
+    <string name="homePage">HomePage</string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="fullscreen">FullScreen</string>
+    <string name="save">Save</string>
+    <string name="desktop">Desktop</string>
+    <string name="BookmarkName">Bookmark Name</string>
+    <string name="view_all">View All</string>
+    <string name="all_bookmark">All Bookmarks</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="one">1</string>
+</resources>
